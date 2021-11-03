@@ -15,6 +15,7 @@ public class AllFromArray {
 		
 		// TO ACCESS ALL ELEMENTS FROM AN ARRAY WE CAN USE 
 		// FOR EACH LOOP/ADVANCED FOR LOOP/ENHANCED
+		// NEVER SKIPS ELEMENTS
 		
 		for(int n:num) {
 			System.out.println(n);
