@@ -26,6 +26,7 @@ public class Human {
 		if(name.equals("sebastian")) {
 			System.out.println("sending memes");
 		}
+		
 	}
 	
 	
