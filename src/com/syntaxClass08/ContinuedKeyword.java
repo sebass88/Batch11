@@ -7,12 +7,12 @@ public class ContinuedKeyword {
 		
 		for(int i=1; i<=5; i++) {
 			
-			if(i==3) {
+			if(i==3||i==4||i==2) {
 				continue;
 			}
-			System.out.println("Hello"+i);
+			System.out.print("$"+" ");
 		}
-		
+		System.out.println();
 		for(int i=1; i<=10; i++) {
 			
 			if(i==7|| i==3||i==9){

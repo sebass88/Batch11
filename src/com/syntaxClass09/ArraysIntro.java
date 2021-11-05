@@ -42,7 +42,7 @@ public class ArraysIntro {
         // see how many elements inside array/ what is the size of an array.
         System.out.println(" size of array is "+c.length);
         
-        System.out.println(c[0]);
+        System.out.println(c[1]);
 				
 		
 
