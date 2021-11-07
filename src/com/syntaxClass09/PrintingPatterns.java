@@ -28,10 +28,10 @@ public class PrintingPatterns {
 		}
        System.out.println("---------------------------------");
        
-       for(int r=1; r<=4; r++) {
+       for(int r=1; r<=13; r--) {
     	   
-    	   for(int c=1; c<=5; c++) {
-    		   System.out.println(r+" ");
+    	   for(int c=1; c<=7; c++) {
+    		   System.out.print(c+" ");
     	   }
     	   System.out.println();
        }

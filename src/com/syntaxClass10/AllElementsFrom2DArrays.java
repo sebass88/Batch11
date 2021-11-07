@@ -17,7 +17,7 @@ public class AllElementsFrom2DArrays {
 			
 			for(String g:grocery) {
 				
-				System.out.println(g);
+				System.out.print(g+" ");
 			}
 			
 			System.out.println();
