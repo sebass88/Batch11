@@ -9,6 +9,13 @@ public class TaskHw03 {
 		
 		System.out.println(sb.reverse());
 		
+		String na="Sunday";
+		String newStr="";
+		for(int i=na.length()-1;i>=0;i--) {
+			newStr+=na.charAt(i);
+		}
+		System.out.println(newStr);
+		
 		
 
 	}
