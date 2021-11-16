@@ -10,6 +10,6 @@ public class Students {
 	
 	String studenName;
 	int studentID;
-	static int numberofstudents=100;
+	static int numberofstudents;
 	
 }

@@ -13,7 +13,7 @@ public class Recap {
 		System.out.println(str2.replaceAll("[^A-Za-z0-9]", ""));
 		System.out.println(str2.replace("[^A-Za-z0-9]", ""));
 		
-		String str3="";
+		String str3="Hello";
 		for(int i=0; i<5;i++) {
 			str3=str3+i;
 		}

@@ -9,9 +9,9 @@ public class MethodTester {
 		Methods methods=new Methods();
 		methods.times=3;
 		//methods.sayHello();
-		//methods.sayHelloManyTimes();
+		methods.sayHelloManyTimes();
 		//methods.sayHelloManyTimeswithState();
-		methods.sayHelloManyTimeswithParameter(10);
+		//methods.sayHelloManyTimeswithParameter(10);
 		System.out.println("Line after ");
 
 	}

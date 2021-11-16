@@ -8,7 +8,7 @@ public class Methods {
 	
 	void sayHelloManyTimes() {
 		for(int i=0; i<5;i++) {
-			System.out.println("Hello batch 11");
+			System.out.println(i);
 		}
 	}
 	
@@ -20,7 +20,7 @@ public class Methods {
 	
 	void sayHelloManyTimeswithParameter(int times) {
 		for(int i=0; i<times; i++) {
-			System.out.println("hello batch 11");
+			System.out.println("Hello");
 		}
 	}
 
